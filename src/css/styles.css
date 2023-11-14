@@ -1,0 +1,20 @@
+#container {
+    width: 100vw;
+    height: 100vh;
+}
+
+html,
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0ss;
+}
+
+#retrocade {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 50vw;
+    height: 50vh;
+}

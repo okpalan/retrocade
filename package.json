@@ -1,0 +1,18 @@
+{
+  "name": "retrocade",
+  "version": "0.1.0",
+  "description": "Retrocade - A Retro Arcade ",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "build:watch": "gulp watch",
+    "build":"gulp"
+  },
+  "keywords": [],
+  "author": "Nnamdi Michael Okpala",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1"
+  }
+}
